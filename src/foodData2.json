@@ -1,0 +1,112 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVnJTIwZnJpZWQlMjByaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Pulao",
+        "img": "https://ikneadtoeat.com/matar-pulao/",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Biryani",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Paneer Fried Rice",
+        "img": "https://media.istockphoto.com/id/1292617660/photo/healthy-and-tasty-paneer-fried-rice-made-of-rice-mixed-veggies-and-paneer-served-in-bowl-over.jpg?s=1024x1024&w=is&k=20&c=I3E6d0PRt-o-dF7FrD_Qp_hJ9yjipTCgpDMkBMv6ohY=",
+        "options": [
+            {
+                "half": "120",
+                "full": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chilli Paneer",
+        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
+        "options": [
+            {
+                "half": "120",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer 65",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer Tikka",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
+        "options": [
+            {
+                "half": "170",
+                "full": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Cheese Pizza",
+        "img": "https://www.pexels.com/photo/pizza-dish-367915/",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer and other Veggies were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "100",
+                "medium": "200",
+                "large": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Panee rand other Veggies were added."
+    }
+]
